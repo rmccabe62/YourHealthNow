@@ -1,2 +1,7 @@
 # YourHealthNow
-Health care app that will allow a user to find a doctor and a pharmacy along with general health information. Requires a user to register and login to the application before use.
+This allows a user to get healthcare sources and information such as healthcare tips. This also provides a way for the user to locate and contact their physician or pharmacy. 
+The structure of this application includes a validation of user information through the use of a registration and login screen. The user needs to sign up and sign in to use the application. There are links on the website that allow the user to get the information they need to help with their healtcare needs.
+The application is structured through the use of different pages such as:
+HomePage that provides access to the registration/login screen
+A choices page that gives the user the option to contact their physician or pharmacy
+A useful links page that provides general health information to the user
